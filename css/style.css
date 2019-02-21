@@ -150,6 +150,7 @@ body {
   color: #333;
   width: 500px;
   float:left;
+  text-align: center;
 }
 .article-inner__btn {
   float: right;
